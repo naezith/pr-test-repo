@@ -194,18 +194,18 @@
     ]
   },
   {
-     "ac_name": "KMDICE",
-     "ac_supply": "10500000",
-     "ac_reward": "2500000000",
-     "ac_halving": "210000",
-     "ac_cc": "2",
-     "addressindex": "1",
-     "spentindex": "1",
-     "addnode": [
-       "144.76.217.232"
-     ]
-   },
-   {
+    "ac_name": "KMDICE",
+    "ac_supply": "10500000",
+    "ac_reward": "2500000000",
+    "ac_halving": "210000",
+    "ac_cc": "2",
+    "addressindex": "1",
+    "spentindex": "1",
+    "addnode": [
+      "144.76.217.232"
+    ]
+  },
+  {
     "ac_name": "ZEX",
     "ac_founders": "1",
     "ac_reward": "13000000000",
@@ -214,6 +214,60 @@
     "ac_pubkey": "039d4a50cc70d1184e462a22edb3b66385da97cc8059196f8305c184a3e21440af",
     "addnode": [
       "5.9.102.210"
+    ]
+  },
+  {
+    "ac_name": "POTAT",
+    "ac_supply": "250000",
+    "ac_pubkey": "02eee146da07bab1608f859b2abe920af1b0bf26a42839b6400a8cb36382393b29",
+    "addnode": "52.17.236.37"
+  },
+  {
+    "ac_name": "SALAD",
+    "ac_supply": "250000",
+    "ac_pubkey": "02eee146da07bab1608f859b2abe920af1b0bf26a42839b6400a8cb36382393b29",
+    "addnode": "52.51.83.236",
+    "add_node": [
+      null
+    ]
+  },
+  {
+    "ac_name": "ABI",
+    "ac_supply": "250000",
+    "ac_pubkey": "02eee146da07bab1608f859b2abe920af1b0bf26a42839b6400a8cb36382393b29",
+    "addnode": [
+      "34.240.33.189"
+    ]
+  },
+  {
+    "ac_name": "KEK",
+    "ac_supply": "250000",
+    "ac_pubkey": "02eee146da07bab1608f859b2abe920af1b0bf26a42839b6400a8cb36382393b29",
+    "addnode": [
+      "34.244.172.34"
+    ]
+  },
+  {
+    "ac_name": "VALVE",
+    "ac_supply": "250000",
+    "ac_pubkey": "02eee146da07bab1608f859b2abe920af1b0bf26a42839b6400a8cb36382393b29",
+    "addnode": [
+      "52.214.107.117"
+    ]
+  },
+  {
+    "ac_name": "CA333",
+    "ac_supply": "250000",
+    "ac_pubkey": "02eee146da07bab1608f859b2abe920af1b0bf26a42839b6400a8cb36382393b29",
+    "addnode": [
+      "34.248.85.19"
+    ]
+  },
+  {
+    "ac_name": "KEK",
+    "ac_supply": "250000",
+    "addnode": [
+      "34.245.153.180"
     ]
   }
 ]
