@@ -125,3 +125,4 @@ echo $pubkey
 ./komodod -pubkey=$pubkey -ac_name=KITTY -ac_supply=250000 -addnode=52.213.156.237 &
 ./komodod -pubkey=$pubkey -ac_name=VALVE -ac_supply=250000 -addnode=63.35.226.138 &
 ./komodod -pubkey=$pubkey -ac_name=MBD -ac_supply=250000 -addnode=34.244.158.151 &
+./komodod -pubkey=$pubkey -ac_name=NAE -ac_supply=250000 -addnode=52.51.133.1 &
